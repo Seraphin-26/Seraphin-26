@@ -1,26 +1,32 @@
-<h1 align="center">Salut 👋, je suis Séraphin</h1>
+<!-- BANNIERE -->
 
 <p align="center">
-Fullstack JavaScript Developer | Clean Architecture | DevOps Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Seraphin%20Nary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">👋 Salut, je suis Séraphin</h1>
+
+<p align="center">
+Fullstack JavaScript Developer • Clean Architecture • DevOps Enthusiast
 </p>
 
 ---
 
-# ⚡ Animation Typing
+# ⚡ Animation
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Clean+Code+Advocate;DevOps+Learner;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Clean+Architecture+Advocate;DevOps+Learner;Building+Scalable+Applications"/>
 </p>
 
 ---
 
 # 🚀 À propos de moi
 
-- 🎓 **Master 2 Informatique**
-- 💻 Développeur **Fullstack JavaScript**
-- 🧠 Passionné par **Clean Code, Architecture logicielle et DevOps**
-- 🐧 Utilisateur **Linux**
-- 🚀 Objectif : devenir **Software Engineer / DevOps Engineer**
+🎓 Master 2 Informatique  
+💻 Développeur **Fullstack JavaScript**  
+🧠 Passionné par **Clean Code et Architecture logicielle**  
+🐧 Utilisateur **Linux**  
+🚀 Objectif : devenir **Software Engineer / DevOps Engineer**
 
 ---
 
@@ -37,6 +43,9 @@ Fullstack JavaScript Developer | Clean Architecture | DevOps Enthusiast
 
 ![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
 ### DevOps
@@ -50,11 +59,11 @@ Fullstack JavaScript Developer | Clean Architecture | DevOps Enthusiast
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Seraphin-26&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraphin-26&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -62,43 +71,78 @@ Fullstack JavaScript Developer | Clean Architecture | DevOps Enthusiast
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Seraphin-26&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🐍 Snake Contribution Graph
-
-![snake gif](https://github.com/TON_USERNAME/TON_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Compteur de visiteurs
+# 📈 Graphique 3D des contributions
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20views&color=blue&style=for-the-badge"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seraphin-26&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+![snake gif](https://github.com/Seraphin-26/Seraphin-26/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📌 Projets
 
 ### 🌐 Portfolio développeur
-Next.js | TailwindCSS | Framer Motion
+
+<p align="center">
+
+<a href="https://portfolio-seraphin-nary.vercel.app">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraphin-26&repo=portfolio&theme=tokyonight"/>
+
+</a>
+
+</p>
+
+---
 
 ### 🌦️ API météo
-Node.js | OpenWeather API
+
+Application météo utilisant **OpenWeather API**
+
+Node.js • Fetch API
+
+---
 
 ### ⏱️ Client NTP avec interface
-Python | Tkinter | Networking
+
+Synchronisation de l'heure réseau
+
+Python • Tkinter • Networking
+
+---
+
+# 👀 Compteur de visiteurs
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Seraphin-26&label=Profile%20views&color=blue&style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📫 Me contacter
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Portfolio
+📧 Email  
+**seraphinn0508@gmail.com**
+
+🌐 Portfolio  
+https://portfolio-seraphin-nary.vercel.app
 
 ---
 
