@@ -102,7 +102,7 @@ Fullstack JavaScript Developer • Clean Architecture • DevOps Enthusiast
 
 <a href="https://portfolio-seraphin-nary.vercel.app">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraphin-26&repo=portfolio&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraphin-26&repo=portfolio-seraphin-nary&theme=tokyonight"/>
 
 </a>
 
