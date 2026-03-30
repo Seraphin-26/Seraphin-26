@@ -97,15 +97,11 @@ Fullstack JavaScript Developer • Clean Architecture • DevOps Enthusiast
 # 📌 Projets
 
 ### 🌐 Portfolio développeur
-
 <p align="center">
-
-<a href="https://portfolio-seraphin-nary.vercel.app">
-
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraphin-26&repo=portfolio-seraphin-nary&theme=tokyonight"/>
-
-</a>
-
+  <a href="https://portfolio-seraphin-nary.vercel.app">
+    <img src="https://raw.githubusercontent.com/Seraphin-26/Seraphin-26/main/portfolio-preview.png" 
+         width="600" alt="Portfolio Seraphin"/>
+  </a>
 </p>
 
 ---
